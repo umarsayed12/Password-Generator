@@ -48,7 +48,7 @@ function App() {
             />
             <button
               onClick={copytoclip}
-              className='bg-black text-white h-10 w-20 absolute top-0 right-0 rounded-r-xl'
+              className='bg-black text-white h-12 w-20 absolute top-0 right-0 rounded-r-xl'
             >
               Copy
             </button>
